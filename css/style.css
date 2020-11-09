@@ -1,0 +1,27 @@
+
+.first_container{
+    height:100px;
+    width:10%;
+    border:10px solid black;
+    /* border-radius: 10%; */
+    background-color: aqua;
+}
+h1{
+    color:blue;
+}
+.second_container{
+    height:100px;
+    background-color: red;
+    width:10%;
+    /* margin-top: 10px; */
+    margin-left: 170px;
+    border: 20px solid black;
+}
+.third_container{
+    height:100px;
+    background-color: greenyellow;
+    width:10%;
+    /* margin-top: 10px; */
+    margin-left: 360px;
+    border: 20px solid black;
+}
